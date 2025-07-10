@@ -30,10 +30,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=codechef&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo"  />
-  <img src="https://img.shields.io/static/v1?message=leetcode&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
-  <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=gmail&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=codechef&logo=codechef&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo"  />
+  <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
