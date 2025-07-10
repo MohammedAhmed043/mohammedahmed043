@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ahmed</h1>
 <h3 align="center">PYTHON | SQL | Exploring the Cloud Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedahmed043&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedahmed043" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedahmed043" alt="mohammedahmed043" /></a> </p>
 
 - 🔭 I’m currently working on **Projects using Python and SQL**
 
