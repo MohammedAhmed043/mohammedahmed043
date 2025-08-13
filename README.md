@@ -58,7 +58,6 @@
   </span>
 </p>
 
-<!-- GitHub stats – Dracula theme -->
 <h3 align="left">GitHub Stats:</h3>
 
 <!-- Streak Stats -->
@@ -67,6 +66,24 @@
     align="center"
     src="https://streak-stats.demolab.com/?user=MohammedAhmed043&theme=dracula"
     alt="GitHub Streak"
+  />
+</p>
+
+<!-- Top Languages -->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAhmed043&layout=compact&theme=dracula"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Overall Stats -->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=MohammedAhmed043&show_icons=true&theme=dracula"
+    alt="GitHub Stats"
   />
 </p>
 
